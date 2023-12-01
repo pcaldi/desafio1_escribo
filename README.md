@@ -26,8 +26,14 @@ Este projeto contém uma função em JavaScript que calcula o somatório de todo
     npm i
     ```
 
-4. Execute o scripts :
+4. Execute o script :
     ````shell
     npm start
-    npm test
     ````
+
+## Testes
+ - Para executar os testes automatizados, utilize o comando:
+      ````shell
+    npm start
+    ````
+   
