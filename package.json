@@ -2,7 +2,7 @@
   "type": "module",
   "main": "index.js",
   "version": "1",
-  "description": "",
+  "description": "Desafio Escribo",
   "scripts": {
     "start": "node src/index.js",
     "test": "jest"
