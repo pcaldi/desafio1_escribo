@@ -26,6 +26,7 @@ Este projeto contém uma função em JavaScript que calcula o somatório de todo
     ```
 
 - Execute o script :
+  
     ````shell
     npm start
     ````
@@ -33,6 +34,7 @@ Este projeto contém uma função em JavaScript que calcula o somatório de todo
 ## Testes
 
  - Para executar os testes automatizados, utilize o comando:
+   
       ````shell
     npm start
     ````
