@@ -24,8 +24,9 @@ Este projeto contém uma função em JavaScript que calcula o somatório de todo
     ```shell
     npm i
     ```
+## Executando a Função
 
-- Execute o script :
+- Para executar a função que calcula o somatório de números divisíveis por 3 ou 5, utilize os seguintes comandos: 
   
     ````shell
     npm start
@@ -36,6 +37,6 @@ Este projeto contém uma função em JavaScript que calcula o somatório de todo
  - Para executar os testes automatizados, utilize o comando:
    
    ````shell
-   npm start
+   npm test
    ````
    
