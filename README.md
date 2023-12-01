@@ -5,7 +5,7 @@
 Este projeto contém uma função em JavaScript que calcula o somatório de todos os valores inteiros divisíveis por 3 ou 5 abaixo de um número fornecido.
 
 
-## Como clonar o projeto?
+## Como executar?
 
 - Faça o clone pelo Github:
 
