@@ -4,25 +4,6 @@
 
 Este projeto contém uma função em JavaScript que calcula o somatório de todos os valores inteiros divisíveis por 3 ou 5 abaixo de um número fornecido.
 
-### Como Usar
-
-1. Clone este repositório:
-
-```bash
-git clone https://github.com/pcaldi/desafio1_escribo.git
-```
-
-### Navegue até o diretório do projeto:
-```bash
-cd desafio1_escribo
-```
-### Execute o script usando Node.js:
-````bash
-node main.js
-````
-
-
-```
 
 ## Como clonar o projeto?
 
