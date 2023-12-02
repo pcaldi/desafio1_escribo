@@ -52,7 +52,7 @@ Este projeto contém uma função em JavaScript que calcula o somatório de todo
 
 ## Testes
 
- - Para executar os testes automatizados, utilize o comando:
+ - Para executar os testes unitários, utilize o comando:
 
    ````
    npm test
@@ -90,9 +90,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 [![Gmail Badge](https://img.shields.io/badge/-pcaldi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pcaldi@gmail.com)](mailto:pcaldi@gmail.com)
 
 ---
-
-## 📝 Licença
-
-Este projeto esta sobe a licença [MIT](./LICENSE).
 
 Feito por Paulo Caldi 👋🏽 [Entre em contato!](https://www.linkedin.com/in/pcaldi/)
