@@ -1,7 +1,7 @@
 export default {
   testEnvironment: 'node',
   transform: {
-    '^.+\\.js$': 'babel-jest', // se você estiver usando Babel
+    '^.+\\.js$': 'babel-jest',
   },
 
   moduleFileExtensions: ['js', 'json', 'node'],
